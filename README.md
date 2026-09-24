@@ -122,3 +122,6 @@ llama3.2
 ```text
 cross-encoder/ms-marco-MiniLM-L-6-v2
 ```
+---
+### Output
+<img width="947" height="438" alt="image" src="https://github.com/user-attachments/assets/72de4c84-b935-47e4-b0cc-8cf61994ab02" />
