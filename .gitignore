@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# FAISS generated index
+faiss_index/
+
+# Processed data
+data/processed/
+
+# Model/cache files
+.cache/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
